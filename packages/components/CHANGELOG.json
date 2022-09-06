@@ -1,0 +1,22 @@
+{
+  "name": "@blood/components",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@blood/components_v1.1.0",
+      "date": "Tue, 06 Sep 2022 12:51:45 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "用到components"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@blood/hooks\" to `1.1.0`"
+          }
+        ]
+      }
+    }
+  ]
+}
