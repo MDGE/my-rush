@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@blood/hooks",
+      "comment": "hooks 更改",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@blood/hooks"
+}
