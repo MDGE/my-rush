@@ -1,1 +1,1 @@
-export const count = 1234567
+export const count = 12345
