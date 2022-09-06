@@ -1,0 +1,17 @@
+{
+  "name": "@blood/hooks",
+  "entries": [
+    {
+      "version": "1.1.0",
+      "tag": "@blood/hooks_v1.1.0",
+      "date": "Tue, 06 Sep 2022 13:13:26 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "改变hooks"
+          }
+        ]
+      }
+    }
+  ]
+}
