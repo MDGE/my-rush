@@ -1,0 +1,17 @@
+{
+  "name": "@blood/hooks",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@blood/hooks_v1.0.1",
+      "date": "Tue, 06 Sep 2022 12:04:45 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "feat: 第一次更新"
+          }
+        ]
+      }
+    }
+  ]
+}
