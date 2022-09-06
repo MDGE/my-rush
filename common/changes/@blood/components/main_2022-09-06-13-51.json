@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@blood/components",
+      "comment": "test",
+      "type": "minor"
+    }
+  ],
+  "packageName": "@blood/components"
+}
