@@ -2,6 +2,23 @@
   "name": "@blood/components",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@blood/components_v1.0.2",
+      "date": "Wed, 07 Sep 2022 02:05:00 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "test1"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@blood/hooks\" to `1.0.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@blood/components_v1.0.1",
       "date": "Wed, 07 Sep 2022 01:55:48 GMT",
