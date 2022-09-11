@@ -2,6 +2,18 @@
   "name": "@blood/components",
   "entries": [
     {
+      "version": "3.0.0",
+      "tag": "@blood/components_v3.0.0",
+      "date": "Sun, 11 Sep 2022 10:20:19 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "rush 配置"
+          }
+        ]
+      }
+    },
+    {
       "version": "2.0.2",
       "tag": "@blood/components_v2.0.2",
       "date": "Sun, 11 Sep 2022 09:17:42 GMT",

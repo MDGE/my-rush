@@ -1,6 +1,13 @@
 # Change Log - @blood/components
 
-This log was last generated on Sun, 11 Sep 2022 09:17:42 GMT and should not be manually modified.
+This log was last generated on Sun, 11 Sep 2022 10:20:19 GMT and should not be manually modified.
+
+## 3.0.0
+Sun, 11 Sep 2022 10:20:19 GMT
+
+### Breaking changes
+
+- rush 配置
 
 ## 2.0.2
 Sun, 11 Sep 2022 09:17:42 GMT
