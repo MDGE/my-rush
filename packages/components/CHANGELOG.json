@@ -2,6 +2,18 @@
   "name": "@blood/components",
   "entries": [
     {
+      "version": "2.0.1",
+      "tag": "@blood/components_v2.0.1",
+      "date": "Sun, 11 Sep 2022 09:04:07 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "comonents package.json"
+          }
+        ]
+      }
+    },
+    {
       "version": "2.0.0",
       "tag": "@blood/components_v2.0.0",
       "date": "Sun, 11 Sep 2022 01:56:33 GMT",
