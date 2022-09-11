@@ -1,6 +1,13 @@
 # Change Log - @blood/components
 
-This log was last generated on Sun, 11 Sep 2022 09:04:07 GMT and should not be manually modified.
+This log was last generated on Sun, 11 Sep 2022 09:17:42 GMT and should not be manually modified.
+
+## 2.0.2
+Sun, 11 Sep 2022 09:17:42 GMT
+
+### Patches
+
+- components files
 
 ## 2.0.1
 Sun, 11 Sep 2022 09:04:07 GMT
