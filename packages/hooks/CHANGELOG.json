@@ -2,6 +2,18 @@
   "name": "@blood/hooks",
   "entries": [
     {
+      "version": "2.0.0",
+      "tag": "@blood/hooks_v2.0.0",
+      "date": "Sun, 11 Sep 2022 01:56:33 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "新增组建"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.2",
       "tag": "@blood/hooks_v1.0.2",
       "date": "Wed, 07 Sep 2022 02:05:00 GMT",
