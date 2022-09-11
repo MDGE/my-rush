@@ -10,7 +10,35 @@
    * example commands, try "rush --help", "rush my-bulk-command --help", or
    * "rush my-global-command --help".
    */
+   "phases": [
+    {
+      "name":"_phase:build", 
+      "ignoreMissingScript": true,
+      "dependencies": {
+        // "upstream": [
+        //   "_phase:build"
+        // ]
+      }
+    },
+    {
+      "name":"_phase:test", 
+      "ignoreMissingScript": true,
+      "dependencies": {
+        // "upstream": [
+        //   "_phase:build"
+        // ]
+      }
+    }
+   ],
   "commands": [
+    {
+      "commandKind": "phased",
+      "phases":[ "_phase:build","_phase:test"],
+      "summary": "测试和构建",
+      "name":"build",
+      "enableParallelism": true,
+      "incremental":true
+    }
     // {
     //   /**
     //    * (Required) Determines the type of custom command.
